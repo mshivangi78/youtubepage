@@ -1,0 +1,27 @@
+[
+    {
+        "thumbnail":"./Leo.jpeg",
+        "title":"Leo Trailer",
+        "video":"./Leo.mp4"
+    },
+    {
+        "thumbnail":"./Harry.jpeg",
+        "title":"Harry Potter and the Philosopher's Stone",
+        "video":"./Harry.mp4"
+    },
+    {
+        "thumbnail":"./Kantra.jpeg",
+        "title":"Kantara 2 Trailer",
+        "video":"./Kantra.mp4"
+    },
+    {
+        "thumbnail":"./Loki.jpeg",
+        "title":"Loki season 2 Trailer",
+        "video":"./Loki.mp4"
+    },
+    {
+        "thumbnail":"./Tangled.jpeg",
+        "title":"Tangled Trailer",
+        "video":"./Tangled.mp4"
+    }
+]
